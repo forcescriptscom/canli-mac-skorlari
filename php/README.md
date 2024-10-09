@@ -1,4 +1,5 @@
-#ÖRNEK KODLAR PHP
+# ÖRNEK KODLAR PHP
+
 index.php dosyası içinde örnek kod bulunmaktadır. Linkte ki json verilerini hızlıca alabilmek için guzzle http eklentisi kullanılmaktadır. Bu projede kullanılan guzzle php sürümü projenize göre uyumlu değilse composer ile diğer php sürümlerini indirebilir böylece tüm php sürümlü projelerinizde hızlı ve uyumlu kullanabilirsiniz.
 
 ```php
