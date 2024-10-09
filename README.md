@@ -22,6 +22,7 @@ Canlı maç skorları API'sini hızlı bir şekilde entegre etmek ve kullanmak i
 API, aylık ve 3 aylık abonelikler şeklinde sunulmaktadır. İhtiyacınıza uygun paketlerden birini seçerek kullanmaya başlayabilirsiniz.
 
 ## Örnek Kod
+**UYARI**: Örnek PHP kodu bize aittir. Diğer eklenen dillerde uzman değiliz, php harici diğer kodlarda hata veya yavaşlık olabilir.
 
 ```php
 require 'vendor/autoload.php';
